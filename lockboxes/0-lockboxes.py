@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def canUnlockAll(boxes):
     """Determine if all boxes can be opened."""
     if not boxes or not isinstance(boxes, list):
