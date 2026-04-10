@@ -8,7 +8,7 @@
  *
  * Return: Always 0.
  */
-int main2(void)
+int main(void)
 {
     listint_t *head;
 
